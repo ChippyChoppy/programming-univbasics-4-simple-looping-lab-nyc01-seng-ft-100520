@@ -22,6 +22,6 @@ end
 array = []
 
 def return_string_array(array)
-  array.each do { |i| puts i.string }
+  array.collect do { |i| puts i.string }
 end
 array = []
