@@ -21,6 +21,6 @@ def output_array(array)
 end
 array = []
 
-def return_string_array
+def return_string_array(array)
   
 end
