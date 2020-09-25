@@ -8,7 +8,7 @@ end
 
 def loop_message_n_times(message, number)
   number.times do 
-    puts "Hello Moon."
+    puts "#{message}"
   end
   
 end
