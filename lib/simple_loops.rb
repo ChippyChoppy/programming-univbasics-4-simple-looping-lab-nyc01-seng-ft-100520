@@ -12,11 +12,11 @@ def loop_message_n_times(message, number)
   end
 end
 
-def output_array(message)
+def output_array(array)
   counter = 0 
-  dinosaurs = ["t rex", "velociraptor", "stegosaurus"]
-  while dinosaurs[counter] do 
-    puts dinosaurs[counter]
+  message = ["", "", ""]
+  while message[counter] do 
+    puts message[counter]
     counter += 1 
   end
 end
