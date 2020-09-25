@@ -13,11 +13,7 @@ def loop_message_n_times(message, number)
 end
 
 def output_array
-  counter = 0 
-  array = ["What", "the", "actual", "heck?"]
-  while array[counter] do 
-    puts array[counter] 
-    counter += 1 
+
   end
 end
 
