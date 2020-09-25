@@ -22,6 +22,5 @@ end
 array = []
 
 def return_string_array(array)
-  puts 
+  
 end
-array = []
