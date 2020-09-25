@@ -19,8 +19,7 @@ def output_array(array)
     counter += 1 
   end
 end
-array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
-array = [5, 4, 3, 2, 1]
+array = []
 
 def return_string_array
   
