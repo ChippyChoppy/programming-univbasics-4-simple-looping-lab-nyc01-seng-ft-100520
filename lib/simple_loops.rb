@@ -12,11 +12,11 @@ def loop_message_n_times(message, number)
   end
 end
 
-def output_array(message)
+def output_array(array)
   counter = 0 
-  message = ["/Be yourself;\neveryone else is already taken\n- Oscar Wilde/"]
-  while counter < message.length do 
-    puts message[counter]
+  array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
+  while counter < array.length do 
+    puts array[counter]
     counter += 1 
   end
 end
