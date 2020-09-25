@@ -10,14 +10,14 @@ def loop_message_n_times(message, number)
   number.times do 
     puts "#{message}"
   end
-  
 end
 
-def output_array(array, number)
-  number.times do
-    pts array[]
+def output_array
+  counter = 0 
+  while counter < array.length do 
+    puts array[counter] 
+    counter += 1 
   end
-  
 end
 
 def return_string_array
