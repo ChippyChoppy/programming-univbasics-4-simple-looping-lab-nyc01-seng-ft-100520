@@ -22,5 +22,5 @@ end
 array = []
 
 def return_string_array(array)
-  
+  for i.array do
 end
