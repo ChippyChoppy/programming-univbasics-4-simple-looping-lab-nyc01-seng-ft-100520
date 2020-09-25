@@ -14,7 +14,7 @@ end
 
 def output_array
   counter = 0 
-  array = ["", "", "", "" ]
+  array = ["What", "the", "actual", "heck?"]
   while array[counter] do 
     puts array[counter] 
     counter += 1 
