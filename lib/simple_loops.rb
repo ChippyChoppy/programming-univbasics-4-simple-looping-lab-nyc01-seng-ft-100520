@@ -15,7 +15,7 @@ end
 def output_array
   counter = 0 
   array = ["", "", "", "" ]
-  while counter < array.length do 
+  while array[counter] do 
     puts array[counter] 
     counter += 1 
   end
