@@ -2,7 +2,7 @@
 
 def loop_message_five_times(message)
   5.times do 
-    puts "I'm a dinosaur! RAWR"
+    puts "Hello World."
   end
 end
 
