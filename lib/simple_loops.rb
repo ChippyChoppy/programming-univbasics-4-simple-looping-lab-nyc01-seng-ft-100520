@@ -14,7 +14,7 @@ end
 
 def output_array(array)
   counter = 0 
-  message = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
+  message = []
   while counter < message.length do 
     puts message[counter]
     counter += 1 
