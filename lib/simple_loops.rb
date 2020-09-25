@@ -14,12 +14,13 @@ end
 
 def output_array(array)
   counter = 0 
-  array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
   while counter < array.length do 
     puts array[counter]
     counter += 1 
   end
 end
+array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
+array = [5, 4, 3, 2, 1]
 
 def return_string_array
   
